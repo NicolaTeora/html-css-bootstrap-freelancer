@@ -14,3 +14,20 @@
 .start_boots{
     padding: 10px 15px;
 }
+
+/* HEADER */
+#header{
+    background-color: rgba(26, 188, 156, 1);
+    color: white;
+}
+
+.card_img{
+    /* debug */
+    width: 200px;
+    height: 250px;
+    background-color: white;
+}
+
+.line{
+    width: 50px;
+}
