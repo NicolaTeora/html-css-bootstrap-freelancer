@@ -4,3 +4,13 @@
     border: 1px dashed red;
     padding: 5px;
 }
+
+/* HEADER */
+.header{
+    background-color: rgba(44, 62, 80, 1);
+    padding: 1.3rem;
+}
+
+.start_boots{
+    padding: 10px 15px;
+}
