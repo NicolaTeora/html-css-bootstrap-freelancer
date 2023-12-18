@@ -33,14 +33,23 @@
 }
 
 /* PORTFOLIO */
+#portfolio{
+    color: rgba(44, 62, 80, 1);
+}
+
 .illustration{
     height: 150px;
     width: 100%;
-    background-color: rgba(44, 62, 80, 1);;
+    background-color: rgba(44, 62, 80, 1);
 }
 
 /* ABOUT */
 #about{
     background-color: rgba(26, 188, 156, 1);
     color: white;
+}
+
+/* CONTACT ME */
+#contact_me .container{
+    width: 300px;
 }
