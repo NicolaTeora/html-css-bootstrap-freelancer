@@ -1,8 +1,8 @@
 /* DEBUG */
-
 .debug{
     border: 1px dashed red;
     padding: 5px;
+    width: 100%;
 }
 
 /* NAV */
@@ -30,4 +30,17 @@
 
 .line{
     width: 50px;
+}
+
+/* PORTFOLIO */
+.illustration{
+    height: 150px;
+    width: 100%;
+    background-color: rgba(44, 62, 80, 1);;
+}
+
+/* ABOUT */
+#about{
+    background-color: rgba(26, 188, 156, 1);
+    color: white;
 }
