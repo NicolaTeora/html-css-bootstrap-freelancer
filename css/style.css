@@ -31,6 +31,7 @@
 
 .ltt_star{
     width: 40px;
+    text-align: center;
 }
 
 /* PORTFOLIO */
@@ -51,6 +52,10 @@
 }
 
 /* CONTACT ME */
+#contact_me{
+    color: rgba(44, 62, 80, 1);
+}
+
 #contact_me .container{
     width: 300px;
 }
