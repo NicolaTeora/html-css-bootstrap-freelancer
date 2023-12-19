@@ -65,3 +65,11 @@
     background-color: rgba(44, 62, 80, 1);
     color: white;
 }
+
+.social{
+    padding: 6px;
+    width: fit-content;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: inline-block;
+}
